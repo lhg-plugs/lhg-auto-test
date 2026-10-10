@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"自动测试专家：一句话生成测试用例（三类覆盖）与可执行测试脚本","name":"lhg-auto-test","source":"./"}]}
